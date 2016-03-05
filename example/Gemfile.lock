@@ -1,0 +1,13 @@
+GEM
+  remote: http://localhost:9292/
+  specs:
+    mips (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mips
+
+BUNDLED WITH
+   1.10.3

@@ -1,0 +1,2 @@
+source 'http://localhost:9292'
+gem 'mips'
